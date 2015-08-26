@@ -1,13 +1,13 @@
 # 开智荐书
 **The Hippocampus Book**
 
->Andersen, P., Morris, R., Amaral, D., Bliss, T., & O’Keefe, J. (Eds.). (2006). The Hippocampus Book (1 edition). Oxford ; New York: Oxford University Press.
+Andersen, P., Morris, R., Amaral, D., Bliss, T., & O’Keefe, J. (Eds.). (2006). The Hippocampus Book (1 edition). Oxford ; New York: Oxford University Press.
 
->简评：不论是理论还是实验数据，本书均内容精良，生动的研究为我们解开了大脑的奥秘。The Hippocampus Book理应是每位神经科学家书柜里的必备书籍。
+简评：不论是理论还是实验数据，本书均内容精良，生动的研究为我们解开了大脑的奥秘。The Hippocampus Book 理应是每位神经科学家书柜里的必备书籍。
 
 **赵思家：**
 
-若是想仔细阅读相关的书籍和论文，推荐从以下一些论文入手，1978年O'Keefe合著的奠基性著作：[The Hippocampus as a Cognitive Map](http://www.cognitivemap.net/) 可在此处下载：http://www.cognitivemap.net/。
+若是想仔细阅读相关的书籍和论文，推荐从以下一些论文入手，1978 年 O'Keefe 合著的奠基性著作：[The Hippocampus as a Cognitive Map](http://www.cognitivemap.net/) 可在此处下载：http://www.cognitivemap.net/。
 
 * Andersen, P., Morris, R., Amaral, D., Bliss, T., O’Keefe, J., 2006. The Hippocampus Book. Oxford University Press.
 * Burgess, N., Barry, C., O’Keefe, J., 2007. An oscillatory interference model of grid cell firing. Hippocampus 17, 801–812. doi:10.1002/hipo.20327
